@@ -228,5 +228,6 @@ a {
 @media (max-width:1028px) {
   .title-img {
     position: static;
+      width: 20rem;
   }
 }
